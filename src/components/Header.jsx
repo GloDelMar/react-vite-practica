@@ -13,7 +13,7 @@ export default function Header(){
                 </footer>
             </div>
             <div>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/615px-Vitejs-logo.svg.png?20220412224743" alt="logo"/>
+                <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="logo"/>
             </div>
         </section>
         
