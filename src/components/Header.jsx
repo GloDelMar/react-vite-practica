@@ -13,7 +13,7 @@ export default function Header(){
                 </footer>
             </div>
             <div>
-                <img src="src/assets/Vite.js.svg" alt="logo"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/615px-Vitejs-logo.svg.png?20220412224743" alt="logo"/>
             </div>
         </section>
         
